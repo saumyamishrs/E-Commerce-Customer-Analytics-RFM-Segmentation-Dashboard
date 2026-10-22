@@ -138,9 +138,12 @@ Figures are from the dashboard with no filters applied.
 │   └── BRD.docx
 └── README.md
 ```
+## Dataset
+- Source: [UCI Machine Learning Repository — Online Retail II](https://archive.ics.uci.edu/dataset/502/online%2Bretail%2Bii)
+- The dataset contains approximately 1.07 million retail transactions.
+- The raw dataset is not included in this repository; download it from the official UCI source.
 
 ## How to Run
-
 1. **Clone** the repository and place the raw dataset in `data/raw/`.
 2. **Run the SQL scripts** in `sql/` to clean and deduplicate the data.
 3. **Run the Python notebook** in `notebooks/` to compute RFM scores, segments and the churn flag, then export the customer-level output.
