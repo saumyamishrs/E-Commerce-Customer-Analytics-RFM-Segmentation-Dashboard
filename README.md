@@ -158,4 +158,4 @@ Figures are from the dashboard with no filters applied.
 
 ## Acknowledgements
 
-This project was built by following and adapting the [Customer Analytics & RFM Segmentation tutorial](PASTE-TUTORIAL-LINK-HERE) by Mansi Goel. The dataset is Online Retail II from the UCI Machine Learning Repository (donated by Daqing Chen).
+This project was built by following and adapting the [Customer Analytics & RFM Segmentation tutorial] by Mansi Goel. The dataset is Online Retail II from the UCI Machine Learning Repository (donated by Daqing Chen).
